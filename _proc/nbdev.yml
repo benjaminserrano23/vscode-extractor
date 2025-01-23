@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "vscode-extractor"
+  site-url: "https://benjaminserrano23.github.io/vscode-extractor"
+  description: ""
+  repo-branch: main
+  repo-url: "https://github.com/benjaminserrano23/vscode-extractor"
