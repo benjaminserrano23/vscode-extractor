@@ -5,7 +5,7 @@
 
 ## Introducción
 
-`vscode-extractor` es una herramienta poderosa diseñada para interactuar
+`vscode-extractor` es una herramienta diseñada para interactuar
 con el Visual Studio Code Marketplace, permitiendo la extracción de
 metadatos, análisis de extensiones, y procesamiento de estadísticas
 relacionadas con repositorios de GitHub. Ideal para desarrolladores e
