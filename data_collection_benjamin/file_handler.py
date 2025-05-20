@@ -2,6 +2,7 @@ import csv
 import json
 from tqdm import tqdm
 
+
 class FileHandler:
     def append_metadata_to_json(self, input_json, output_json, fetch_extension_metadata):
         with open(input_json, "r", encoding="utf-8") as json_file:
